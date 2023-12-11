@@ -1,0 +1,45 @@
+{
+    "name": "My Closet",
+    "listOfBrands": [
+        {
+            "brandName": "Aritzia",
+            "averageCostPerWear": 15.5,
+            "numOfItems": 1,
+            "listOfClothes": [{
+                "itemName": "My Pants",
+                "cost": 31,
+                "costPerWear": 15.5,
+                "brand": "Aritzia",
+                "wearCount": 2
+            }]
+        },
+        {
+            "brandName": "Bluenotes",
+            "averageCostPerWear": 15,
+            "numOfItems": 1,
+            "listOfClothes": [{
+                "itemName": "My Shirt",
+                "cost": 15,
+                "costPerWear": 15,
+                "brand": "Bluenotes",
+                "wearCount": 1
+            }]
+        }
+    ],
+    "listOfClothes": [
+        {
+            "itemName": "My Pants",
+            "cost": 31,
+            "costPerWear": 15.5,
+            "brand": "Aritzia",
+            "wearCount": 2
+        },
+        {
+            "itemName": "My Shirt",
+            "cost": 15,
+            "costPerWear": 15,
+            "brand": "Bluenotes",
+            "wearCount": 1
+        }
+    ]
+}

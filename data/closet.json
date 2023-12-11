@@ -1,0 +1,45 @@
+{
+    "name": "Emilyn's Closet",
+    "listOfBrands": [
+        {
+            "brandName": "Thrift Store",
+            "averageCostPerWear": 0,
+            "numOfItems": 1,
+            "listOfClothes": [{
+                "itemName": "Hat",
+                "cost": 10,
+                "costPerWear": 0,
+                "brand": "Thrift Store",
+                "wearCount": 0
+            }]
+        },
+        {
+            "brandName": "Aritzia",
+            "averageCostPerWear": 0,
+            "numOfItems": 1,
+            "listOfClothes": [{
+                "itemName": "Blue Shirt",
+                "cost": 5,
+                "costPerWear": 0,
+                "brand": "Aritzia",
+                "wearCount": 0
+            }]
+        }
+    ],
+    "listOfClothes": [
+        {
+            "itemName": "Hat",
+            "cost": 10,
+            "costPerWear": 0,
+            "brand": "Thrift Store",
+            "wearCount": 0
+        },
+        {
+            "itemName": "Blue Shirt",
+            "cost": 5,
+            "costPerWear": 0,
+            "brand": "Aritzia",
+            "wearCount": 0
+        }
+    ]
+}
